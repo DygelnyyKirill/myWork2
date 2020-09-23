@@ -215,9 +215,81 @@
 // };
 // alert(arr[lang][day]);
 
-let a = 0;
-if (a = -3) {
-    alert('da');
-} else {
-    alert('no');
-}
+// let num = 1;
+// switch (num) {
+//     case '1':
+//         let result ='zima';
+//     break;
+//     case '2':
+//         alert('becha');
+//     break;
+//     default:
+//         alert('inche');
+//     break;
+// }
+// let result = 1;
+// let arr = [2, 3, 4, 5];
+// for (let i = 0; i < arr.length; i++) {
+// 	result = result * arr[i];
+// }
+// alert(result);
+
+// var obj = {
+// 	'Минск': 'Беларусь',
+// 	'Москва': 'Россия',
+// 	'Киев': 'Украина'
+// };
+
+// for (var key in obj) {
+// 	alert(key);
+// }
+// for (var key in obj) {
+// 	alert(obj[key]);
+// }
+// for (var key in obj) {
+// 	alert(key + ' - это ' + obj[key] + '.');
+// };
+// let result = 1;
+// for (let i = 0; i <= 100; i++) {
+//     result += arr[i];
+// };
+// alert(result);
+// let i = 1;
+// let result = 0;
+// while (i <= 100) {
+// 	result += i;
+// 	i++;  
+// }
+// alert(result);
+
+// let arr = [1, 2, 3, 4, 5];
+// let result = 0;
+// for (let i = 0; i < arr.length; i++) {
+// 	result += arr[i];
+// }
+// alert(result);
+
+// let obj = {
+// 	green: 'зеленый',
+// 	red: 'красный',
+// 	blue: 'голубой'
+// };
+// for (let key in obj) {
+// 	alert(key + '- this ' + obj[key] + '.');
+// }
+// let obj = {
+// 	Nikol: '200',
+// 	Vasil: '300',
+// 	Petr: '400'
+// };
+// for (let key in obj) {
+// 	alert(key + ' zarplata ' + obj.Nikol + ' dollars.');
+// }
+// let arr = [2, 5, 9, 15, 0, 4];
+// let str = '-'
+// for (let i = 0; i < arr.length; i++) {
+// 	if (arr[i] > 3 && arr[i] < 10) {
+// 		document.write(arr[i]);
+
+// 	}
+// }
