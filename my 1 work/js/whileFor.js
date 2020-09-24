@@ -53,6 +53,22 @@
 // }
 // document.write(arr[5].bold() + '<br>' + arr[6].bold());
 
+// let arr = ['Понедельник', 'Вторник', 'Среда', 'Четверг', 
+// 'Пятница', 'Суббота', 'Воскресенье'];
+
+// for (let i = 0; i < arr.length; i++) {
+//     if (i == 5 || i == 6) {
+//     document.write('')
+//     document.write('')
+//     document.write(arr[i])
+//     document.write('')
+//     document.write('')
+// } else {
+//     document.write('')
+//     document.write(arr[i])
+//     document.write('')
+// };
+// }
 
 // let arr = ['пн', 'вт', 'ср','чт', 'пт', 'сб', 'вс'];
 // let day = 0;
@@ -61,4 +77,3 @@
 // }
 // document.write(day.italics());
 
-	
