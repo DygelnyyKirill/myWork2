@@ -50,3 +50,34 @@
 //     (max - min + 1)) + min;
 // }
 // console.log(getRandomInt(1, 100));
+
+// let arr = [];
+// for (let i = 0; i < 10; i++) {
+//    arr[i] = Math.floor(Math.random() * (100 - 1 + 1) +1);
+// }
+// console.log(arr);
+
+// let a = 1;
+// let b = 5;
+// console.log(Math.abs(a-b));
+
+// let a = 6,
+// b = 1;
+// let c = a - b;
+
+// console.log(Math.abs(c));
+
+// let arr = [12, 15, 20, 25, 59, 79];
+// let sum = 0; 
+// for (let i = 0; i < arr.length; i++) {
+//     sum += arr[i];
+// };
+// let sum1 = sum / arr.lenght;
+// console.log(sum);
+// console.log(sum1);
+
+// let factorial = 1;
+// for (let i = 1; i <= 4; i++) {
+//     factorial = factorial * i
+// }
+// console.log(factorial);
